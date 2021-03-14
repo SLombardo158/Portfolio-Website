@@ -1,0 +1,124 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+nav ul {
+  background: #019799;
+  text-align: right;
+  position:
+  width: 100%;
+  font-size: 20px;
+}
+
+nav ul li {
+  display: inline-block;
+  margin: 55px;
+  margin-bottom: 15px;
+  margin-top: 25px;
+}
+
+nav ul li a {
+  font-family: 'Poiret One', cursive;
+  font-weight: bold;
+  color: #000738;
+  text-decoration: none;
+}
+
+h1 {
+  font-family: 'Poiret One', cursive;
+  font-size: 65px;
+  color: #003738;
+}
+
+h4 {
+  font-family: 'Poiret One', cursive;
+  font-weight: bold;
+  font-size: 25px;
+}
+
+.home {
+  top: 0;
+  background: #39F9FC;
+  min-height: 45vh;
+  padding-top: 20vh;
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  color: #003738;
+}
+
+.work .header {
+  padding: 50px 50px 30px 50px;
+  font-weight: bold;
+  text-align: left;
+  font-size: 30px;
+}
+
+.work p {
+  padding: 40px;
+}
+
+.project {
+  display: inline-block;
+  overflow: hidden;
+  width: 300px;
+  height: 200px;
+  margin: 50px;
+  border-radius: 35px;
+}
+
+.project-image {
+  width: 300px;
+  height: 200px;
+}
+
+.about {
+  top: 0;
+  background: #39F9FC;
+  padding-top: 20px;
+}
+
+.about .header {
+  margin: 50px;
+  font-weight: bold;
+  text-align: left;
+  font-size: 30px;
+}
+
+.about p {
+  padding: 0px 100px 30px 100px;
+  font-size: 22px;
+}
+
+.button {
+  background-color: #019799;
+  border: none;
+  color: #003738;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;
+  font-weight: bold;
+  margin: 20px 2px
+}
+
+.resume-button {
+  border-radius: 8px;
+  margin: 50px auto 90px;
+}
+
+footer {
+  padding: 20px;
+  color: #003738;
+  line-height: 40px;
+  display: inline-block;
+}
+
+.footer-icon {
+  padding: 30px 20px 0px 0px;
+  display: inline;
+}
